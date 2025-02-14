@@ -1,5 +1,6 @@
-# INST377-Lab
 
-# Name (Please Input your name):
+# INST377-Lab3
+
+# Name (Wuilmer Palacios):
 
 # Comments: 
